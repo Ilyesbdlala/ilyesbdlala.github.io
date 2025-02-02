@@ -116,7 +116,7 @@ expiryDate = ["expiryDate"]
   # siteNoIndex = false
   # noIndexPages = ["404 Page not found"]
   # usesAnimation = true
-  
+
   [[params.socialLinks]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/ilyes-ben-dlala-613273183/"
@@ -125,7 +125,15 @@ expiryDate = ["expiryDate"]
     name = "github"
     url = "https://github.com/Ilyesbdlala"
 
+  [[params.socialLinks]]
+    name = "gitlab"
+    url = "https://gitlab.com/Ilyesbdlala"
+  
+  [[params.socialLinks]]
+    name = "email"
+    url = "me@ilyesbdlala.dev"
 
+    
 [menu]
 
   [[menu.main]]
