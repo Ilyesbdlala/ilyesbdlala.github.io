@@ -79,12 +79,12 @@ expiryDate = ["expiryDate"]
   dateformNum     = "02.01.2006"
   dateformNumTime = "02.01.2006 15:04 -0700"
 
-  description = "Personal Website of Ilyes Ben Dlala"
+  description = "Personal Website"
   # images = [""]
   themeColor = "#494f5c"
   accentColor = "#018472"
 
-  homeSubtitle = "Personal Website of Ilyes Ben Dlala"
+  homeSubtitle = "Welcome to my personal Website"
   footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # footerHideThemeName = false
   # bgImg = ""
