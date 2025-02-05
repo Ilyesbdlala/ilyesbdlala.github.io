@@ -131,7 +131,7 @@ expiryDate = ["expiryDate"]
   
   [[params.socialLinks]]
     name = "email"
-    url = "mailto:me@ilyesbdlala.dev"
+    url = "mailto:contact@ilyesbdlala.dev"
 
     
 [menu]
