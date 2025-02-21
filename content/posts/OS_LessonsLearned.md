@@ -1,7 +1,7 @@
 ---
 title: "7 Quick Lessons from Contributing to secureCodeBox"
 date: 2025-02-04T19:04:54+01:00
-draft: false
+draft: true
 toc: false
 images:
 tags:  
